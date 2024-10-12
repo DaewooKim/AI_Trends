@@ -13,7 +13,7 @@
 ## LLM
 | Date | Title | Paper/article |
 |---|---|---|
-| | |
+| 2024.10 | aman.ai - OpenAI o1| [homepage](https://aman.ai/primers/ai/o1/) |
 
 
 ## AI Agent
