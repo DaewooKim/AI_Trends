@@ -30,7 +30,11 @@
 ### Paper
 | Date | Title | Paper/article |
 |---|---|---|
+| 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) | 
+| 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
 | 2024.10 | LLMs Know More Than They Show: On The Intrinsic Representation of LLM Hallucinations| [paper](https://arxiv.org/pdf/2410.02707) |
+| 2024.10 | On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability |[paper](https://arxiv.org/pdf/2409.19924) | 
+| 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 
 ### Blog
 | Date | Title | Paper/article |
