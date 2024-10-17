@@ -11,6 +11,12 @@
 * **New HW architecture**
 
 ## Transformer 
+
+### Paper
+| Date | Title | Article |
+|---|---|---|
+| 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
+
 ### Blog
 | Date | Title | Article |
 |---|---|---|
@@ -33,6 +39,7 @@
 ### Paper
 | Date | Title | Paper/article |
 |---|---|---|
+| 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) | 
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
 | 2024.10 | LLMs Know More Than They Show: On The Intrinsic Representation of LLM Hallucinations| [paper](https://arxiv.org/pdf/2410.02707) |
@@ -44,8 +51,8 @@
 ### Blog
 | Date | Title | Paper/article |
 |---|---|---|
-| 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [homepage](https://airtain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
-| 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [homepage](https://airtain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) |
+| 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
+| 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
 | 2024.10 | aman.ai - OpenAI o1| [homepage](https://aman.ai/primers/ai/o1/) |
 
 ### Lectures
