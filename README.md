@@ -6,8 +6,9 @@
 * **Non-Transformer**
 * **LLM**
 * **AI agent**
-* **Training**
-
+* **Training Optimization**
+* **Inference Optimization**
+* **New HW architecture**
 
 ## Transformer 
 ### Blog
@@ -26,7 +27,8 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.07 | The Illusion of State in State-Space Models | [paper](https://arxiv.org/pdf/2404.08819) |
- 
+| 2024.10 | Were RNNs All We Needed? | [paper](https://arxiv.org/pdf/2410.01201)|
+
 ## LLM
 ### Paper
 | Date | Title | Paper/article |
@@ -59,10 +61,26 @@
 |---|---|---|
 | 2024.09 | Large Language Model Agents MOOC, Fall 2024 | [homepage](https://llmagents-learning.org/f24) |
 
-## Training
+## Training Optimization
 
 ### Paper
 | Date | Title | Paper/article |
 |---|---|---|
 | 2023.12 | FP8-LM: Training FP8 Large Language Models | [paper](https://arxiv.org/pdf/2310.18313) |
 | 2024.10 | Scaling FP8 training to trillion-token LLMs | [paper](https://arxiv.org/pdf/2409.12517v1) |
+
+
+## Inference Optimization
+
+### Paper
+| Date | Title | Paper/article |
+|---|---|---|
+| 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
+
+## New HW Architecture
+
+### Paper
+| Date | Title | Paper/article |
+|---|---|---|
+| 2024.10 | Addition is All You Need For Energy-Efficient Language Models | [paper](https://arxiv.org/pdf/2410.00907) | 
+
