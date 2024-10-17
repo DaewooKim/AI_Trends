@@ -36,6 +36,7 @@
 | 2024.10 | LLMs Know More Than They Show: On The Intrinsic Representation of LLM Hallucinations| [paper](https://arxiv.org/pdf/2410.02707) |
 | 2024.10 | On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability |[paper](https://arxiv.org/pdf/2409.19924) | 
 | 2024.10 | Differential Transformer | [paper](https://arxiv.org/pdf/2410.05258) |
+| 2024.10 | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models | [paper](https://arxiv.org/pdf/2410.05229) |
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 
 ### Blog
