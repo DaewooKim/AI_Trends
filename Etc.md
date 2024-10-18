@@ -1,3 +1,7 @@
+# Training 동향
+* [Compute table (May/2024)](https://www.reddit.com/r/mlscaling/comments/1g631s2/compute_table_may2024/?share_id=QAAhrG9x8LL8hXQUX82DP&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1)
+
+
 # Inference 동향 
 
 * [AI Inference: A Guide for Founders and Developers](https://www.heavybit.com/library/article/ai-inference)
