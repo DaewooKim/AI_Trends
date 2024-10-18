@@ -58,6 +58,7 @@
 | 2024.10 | Differential Transformer | [paper](https://arxiv.org/pdf/2410.05258) |
 | 2024.10 | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models | [paper](https://arxiv.org/pdf/2410.05229) |
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
+| 2024.10 | Inference Scaling for Long-Context Retrieval Augmented Generation | [paper](https://arxiv.org/pdf/2410.04343) | 
 
 ### Blog
 | Date | Title | Article |
@@ -134,3 +135,4 @@
 | Eugene Yan (Senior Applied Scientist at Amazon) | [homepage](https://eugeneyan.com/) |
 | Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
 | Latent Space | [homepage](https://www.latent.space/) | 
+| Lycee AI | [homepage](https://www.lycee.ai/blog) |
