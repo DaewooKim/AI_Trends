@@ -9,10 +9,11 @@
 * **New HW architecture**
 * **Tech Blogs**
 
+----
 # Deep Learning & Machine Learning
 
 ## Lecture
-| Date | Title | Article |
+| Date | Title | Homepage |
 |---|---|---|
 | 2024.08 | Speech and Language Processing (3rd ed. draft) | [paper](https://web.stanford.edu/~jurafsky/slp3/) | 
 | 2024.09 | TinyML and Efficient Deep Learning Computing (6.5940, Fall, 2024) | [paper](https://hanlab.mit.edu/courses/2024-fall-65940) |
@@ -21,7 +22,7 @@
 # Transformer 
 
 ## Paper
-| Date | Title | Article |
+| Date | Title | Paper |
 |---|---|---|
 | 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
 
@@ -45,7 +46,7 @@
 
 # LLM
 ## Paper
-| Date | Title | Paper/article |
+| Date | Title | Paper |
 |---|---|---|
 | 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) | 
@@ -57,14 +58,14 @@
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 
 ## Blog
-| Date | Title | Paper/article |
+| Date | Title | Article |
 |---|---|---|
 | 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
 | 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
 | 2024.10 | aman.ai - OpenAI o1| [homepage](https://aman.ai/primers/ai/o1/) |
 
 ## Lectures
-| Date | Title | Paper/article |
+| Date | Title | Homepage |
 |---|---|---|
 | 2024 Fall | TinyML and Efficient Deep Learning Computing (MIT) | [homepage](https://hanlab.mit.edu/courses/2024-fall-65940) |
 | 2024 Fall | Large Language Models: Methods and Applications (CMU) | [homepage](https://cmu-llms.org/schedule) |
@@ -72,14 +73,14 @@
 ## AI Agent
 
 ## Lectures
-| Date | Title | Paper/article |
+| Date | Title | Homepage |
 |---|---|---|
 | 2024.09 | Large Language Model Agents MOOC, Fall 2024 | [homepage](https://llmagents-learning.org/f24) |
 
 # Training Optimization
 
 ## Paper
-| Date | Title | Paper/article |
+| Date | Title | Paper |
 |---|---|---|
 | 2023.12 | FP8-LM: Training FP8 Large Language Models | [paper](https://arxiv.org/pdf/2310.18313) |
 | 2024.10 | Scaling FP8 training to trillion-token LLMs | [paper](https://arxiv.org/pdf/2409.12517v1) |
@@ -90,6 +91,22 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
+
+# Training Infrastructure
+
+## Blog
+| Date | Title | Article |
+|---|---|---|
+
+# Inference Infrastructure
+
+## Blog
+| Date | Title | Article |
+|---|---|---|
+| 2023.12 | Last Mile Data Processing with Ray | [homepage](https://medium.com/pinterest-engineering/last-mile-data-processing-with-ray-629affbf34ff) |
+| 2024.07 | Ray Infrastructure at Pinterest | [homepage](https://medium.com/pinterest-engineering/ray-infrastructure-at-pinterest-0248efe4fd52) |
+| 2024.07 | Ray Batch Inference at Pinterest (Part 3) | [homepage](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385) |
+
 
 # New HW Architecture
 ## Paper
@@ -108,3 +125,4 @@
 | Sionic AI | [homepage](https://blog.sionic.ai/) |
 | Liquid AI | [homepage](https://www.liquid.ai/) |
 | Eugene Yan (Senior Applied Scientist at Amazon) | [homepage](https://eugeneyan.com/) |
+| Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
