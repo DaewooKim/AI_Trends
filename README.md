@@ -7,23 +7,25 @@
 * **Training Optimization**
 * **Inference Optimization**
 * **New HW architecture**
+* **Tech Blogs**
 
-## Deep Learning & Machine Learning
+# Deep Learning & Machine Learning
 
-### Lecture
+## Lecture
 | Date | Title | Article |
 |---|---|---|
 | 2024.08 | Speech and Language Processing (3rd ed. draft) | [paper](https://web.stanford.edu/~jurafsky/slp3/) | 
 | 2024.09 | TinyML and Efficient Deep Learning Computing (6.5940, Fall, 2024) | [paper](https://hanlab.mit.edu/courses/2024-fall-65940) |
+| 2024.09 | ECE 5545: Machine Learning Hardware and Systems | [paper](https://abdelfattah-class.github.io/ece554) | 
 
-## Transformer 
+# Transformer 
 
-### Paper
+## Paper
 | Date | Title | Article |
 |---|---|---|
 | 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
 
-### Blog
+## Blog
 | Date | Title | Article |
 |---|---|---|
 | 2021.12 | A Mathematical Framework for Transformer Circuits | [homepage](https://transformer-cuitcuits.pub/2021/framework/index.html) | 
@@ -34,15 +36,15 @@
 | 2023.12 | Fact Finding: Do Early Layers Specialise in Local Processing? (Post 5) | [homepage](https://www.lesswrong.com/posts/xE3Y9hhriMmL4cpsR/fact-finding-do-early-layers-specialise-in-local-processing) | 
 | 2023.10 | Generative AI exists because of the transformer | [homepage](https://ig.ft.com/generative-ai) | 
 
-## Non-Transformer
-### Paper
+# Non-Transformer
+## Paper
 | Date | Title | Paper |
 |---|---|---|
 | 2024.07 | The Illusion of State in State-Space Models | [paper](https://arxiv.org/pdf/2404.08819) |
 | 2024.10 | Were RNNs All We Needed? | [paper](https://arxiv.org/pdf/2410.01201)|
 
-## LLM
-### Paper
+# LLM
+## Paper
 | Date | Title | Paper/article |
 |---|---|---|
 | 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
@@ -54,14 +56,14 @@
 | 2024.10 | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models | [paper](https://arxiv.org/pdf/2410.05229) |
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 
-### Blog
+## Blog
 | Date | Title | Paper/article |
 |---|---|---|
 | 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
 | 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
 | 2024.10 | aman.ai - OpenAI o1| [homepage](https://aman.ai/primers/ai/o1/) |
 
-### Lectures
+## Lectures
 | Date | Title | Paper/article |
 |---|---|---|
 | 2024 Fall | TinyML and Efficient Deep Learning Computing (MIT) | [homepage](https://hanlab.mit.edu/courses/2024-fall-65940) |
@@ -69,31 +71,40 @@
 
 ## AI Agent
 
-### Lectures
+## Lectures
 | Date | Title | Paper/article |
 |---|---|---|
 | 2024.09 | Large Language Model Agents MOOC, Fall 2024 | [homepage](https://llmagents-learning.org/f24) |
 
-## Training Optimization
+# Training Optimization
 
-### Paper
+## Paper
 | Date | Title | Paper/article |
 |---|---|---|
 | 2023.12 | FP8-LM: Training FP8 Large Language Models | [paper](https://arxiv.org/pdf/2310.18313) |
 | 2024.10 | Scaling FP8 training to trillion-token LLMs | [paper](https://arxiv.org/pdf/2409.12517v1) |
 
+# Inference Optimization
 
-## Inference Optimization
-
-### Paper
-| Date | Title | Paper/article |
+## Paper
+| Date | Title | Paper |
 |---|---|---|
 | 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
 
-## New HW Architecture
-
-### Paper
-| Date | Title | Paper/article |
+# New HW Architecture
+## Paper
+| Date | Title | Paper |
 |---|---|---|
 | 2024.10 | Addition is All You Need For Energy-Efficient Language Models | [paper](https://arxiv.org/pdf/2410.00907) | 
 
+## Lectures
+| Date | Title | Homepage |
+|---|---|---|
+| 2024.01 | ECE 5545: Machine Learning Hardware and Systems | [homepage](https://abdelfattah-class.github.io/ece5545/) | 
+
+# Tech Blogs
+| Company | Homepage |
+|---|---|
+| Sionic AI | [homepage](https://blog.sionic.ai/) |
+| Liquid AI | [homepage](https://www.liquid.ai/) |
+| Eugene Yan (Senior Applied Scientist at Amazon) | [homepage](https://eugeneyan.com/) |
