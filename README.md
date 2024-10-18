@@ -1,7 +1,5 @@
-# AI_Trends
-
-
 # Contents
+* **Deep Learning & Mchine Learning**
 * **Transformer**
 * **Non-Transformer**
 * **LLM**
@@ -9,6 +7,14 @@
 * **Training Optimization**
 * **Inference Optimization**
 * **New HW architecture**
+
+## Deep Learning & Machine Learning
+
+### Lecture
+| Date | Title | Article |
+|---|---|---|
+| 2024.08 | Speech and Language Processing (3rd ed. draft) | [paper](https://web.stanford.edu/~jurafsky/slp3/) | 
+| 2024.09 | TinyML and Efficient Deep Learning Computing (6.5940, Fall, 2024) | [paper](https://hanlab.mit.edu/courses/2024-fall-65940) |
 
 ## Transformer 
 
