@@ -126,3 +126,4 @@
 | Liquid AI | [homepage](https://www.liquid.ai/) |
 | Eugene Yan (Senior Applied Scientist at Amazon) | [homepage](https://eugeneyan.com/) |
 | Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
+| Latent Space | [homepage](https://www.latent.space/) | 
