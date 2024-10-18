@@ -19,3 +19,10 @@
 # Datacenter 동향
 
 * [How AI Clusters for Enterprises Are Evolving Ahead of 2025]()
+* [$2 H100s: How the GPU Bubble Burst](https://www.latent.space/p/gpu-bubble)
+
+# Potcast
+
+* [a16z](https://www.youtube.com/@a16z)
+* [Sequoia](https://www.sequoiacap.com/stories/?_story-category=podcast)
+* [Latent Space](https://www.latent.space/podcast)
