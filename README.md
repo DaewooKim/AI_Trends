@@ -136,3 +136,4 @@
 | Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
 | Latent Space | [homepage](https://www.latent.space/) | 
 | Lycee AI | [homepage](https://www.lycee.ai/blog) |
+| Zeta Alpha - Trends in AI blog | [homepage](https://www.zeta-alpha.com/blog-1) | 
