@@ -50,6 +50,7 @@
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
+| 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
 | 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) | 
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
@@ -102,11 +103,19 @@
 
 # Training Infrastructure
 
+### Paper
+| Date | Title | Paper |
+|---|---|---|
+
 ### Blog
 | Date | Title | Article |
 |---|---|---|
 
 # Inference Infrastructure
+
+### Paper
+| Date | Title | Paper |
+|---|---|---|
 
 ### Blog
 | Date | Title | Article |
@@ -126,6 +135,11 @@
 | Date | Title | Homepage |
 |---|---|---|
 | 2024.01 | ECE 5545: Machine Learning Hardware and Systems | [homepage](https://abdelfattah-class.github.io/ece5545/) | 
+
+# LLM SW framework
+| Title | Homepage |
+|---|---|
+| bitnet.cpp (official inference framework for 1-bit LLMs) | [homepage](https://github.com/microsoft/BitNet) |
 
 # Tech Blogs
 | Company | Homepage |
