@@ -120,16 +120,24 @@
 ### Blog
 | Date | Title | Article |
 |---|---|---|
-| 2023.12 | Last Mile Data Processing with Ray | [homepage](https://medium.com/pinterest-engineering/last-mile-data-processing-with-ray-629affbf34ff) |
-| 2024.07 | Ray Infrastructure at Pinterest | [homepage](https://medium.com/pinterest-engineering/ray-infrastructure-at-pinterest-0248efe4fd52) |
-| 2024.07 | Ray Batch Inference at Pinterest (Part 3) | [homepage](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385) |
+| 2023.12 | Last Mile Data Processing with Ray | [article](https://medium.com/pinterest-engineering/last-mile-data-processing-with-ray-629affbf34ff) |
+| 2024.07 | Ray Infrastructure at Pinterest | [article](https://medium.com/pinterest-engineering/ray-infrastructure-at-pinterest-0248efe4fd52) |
+| 2024.07 | Ray Batch Inference at Pinterest (Part 3) | [article](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385) |
 
 
-# New HW Architecture
+# HW Architecture
+
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
 | 2024.10 | Addition is All You Need For Energy-Efficient Language Models | [paper](https://arxiv.org/pdf/2410.00907) | 
+
+### Blog
+| Date | Title | Article |
+|---|---|---|
+| 2024.07 | The Evolution of AI Capabilities and the Power of 100,000 H100 Clusters | [article](https://www.naddod.com/blog/ai-evolution-100k-h100-clusters) |
+| 2024.09 | From H100, GH200 to GB200: How NVIDIA Builds AI Supercomputers with SuperPod | [article](https://www.naddod.com/blog/how-nvidia-builds-ai-supercomputers-with-superpod) |
+| 
 
 ### Lectures
 | Date | Title | Homepage |
