@@ -26,7 +26,7 @@
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
-| 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
+| 2024.10 | [] What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
 
 ### Blog
 | Date | Title | Article |
