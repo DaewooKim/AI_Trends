@@ -67,6 +67,7 @@
 |---|---|---|
 | 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [article](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
 | 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [article](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
+| 2024.10 | Noam Brown, Ilge Akkaya & Hunter Lightman of OpenAI’s o1 Research Team on Teaching LLMs to Reason Better by Thinking Longer | [article](https://www.sequoiacap.com/podcast/training-data-noam-brown/) | 
 | 2024.10 | aman.ai - OpenAI o1| [article](https://aman.ai/primers/ai/o1/) |
 | 2024.10 | Reasoning Series, Part 1: Understanding OpenAI o1 | [article](https://leehanchung.github.io/blogs/2024/10/08/reasoning-understanding-o1/) |
 
@@ -161,3 +162,5 @@
 | Latent Space | [homepage](https://www.latent.space/) | 
 | Lycee AI | [homepage](https://www.lycee.ai/blog) |
 | Zeta Alpha - Trends in AI blog | [homepage](https://www.zeta-alpha.com/blog-1) | 
+| Han, Not Solo | [homepage](https://leehanchung.github.io/blogs/) | 
+| Interconnects (Nathan Lambert) | [homepage](https://www.interconnects.ai/) |
