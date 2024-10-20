@@ -164,3 +164,9 @@
 | Zeta Alpha - Trends in AI blog | [homepage](https://www.zeta-alpha.com/blog-1) | 
 | Han, Not Solo | [homepage](https://leehanchung.github.io/blogs/) | 
 | Interconnects (Nathan Lambert) | [homepage](https://www.interconnects.ai/) |
+| Towards AI Newsletter | [homepage](https://newsletter.towardsai.net/) | 
+
+# Founder's Blogs
+| People | Homepage |
+|---|---|
+| Frontier (Doyeob Kim) | [homepage](https://frontierbydoyeob.substack.com/) |
