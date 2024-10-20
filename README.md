@@ -8,7 +8,8 @@
 * **Inference Optimization**
 * **Training Infrastructure**
 * **Inference Infrastructure**
-* **New HW architecture**
+* **HW architecture**
+* **LLM SW framework**
 * **Tech Blogs**
 
 # Deep Learning & Machine Learning
@@ -64,9 +65,10 @@
 ### Blog
 | Date | Title | Article |
 |---|---|---|
-| 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
-| 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [homepage](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
-| 2024.10 | aman.ai - OpenAI o1| [homepage](https://aman.ai/primers/ai/o1/) |
+| 2024.09 | How OpenAI's o1 changes the LLM training picture - part 1 | [article](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-1) |
+| 2024.10 | How OpenAI's o1 changes the LLM training picture - part 2 | [article](https://airtrain.ai/how-openai-o1-changes-the-llm-training-picture-part-2) | 
+| 2024.10 | aman.ai - OpenAI o1| [article](https://aman.ai/primers/ai/o1/) |
+| 2024.10 | Reasoning Series, Part 1: Understanding OpenAI o1 | [article](https://leehanchung.github.io/blogs/2024/10/08/reasoning-understanding-o1/) |
 
 ### Lectures
 | Date | Title | Homepage |
