@@ -53,7 +53,8 @@
 |---|---|---|
 | 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
 | 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
-| 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) | 
+| 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) |
+| 2024.09 | Large Language Monkeys: Scaling Inference Compute with Repeated Sampling | [paper](https://arxiv.org/pdf/2407.21787) |
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
 | 2024.10 | LLMs Know More Than They Show: On The Intrinsic Representation of LLM Hallucinations| [paper](https://arxiv.org/pdf/2410.02707) |
 | 2024.10 | On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability |[paper](https://arxiv.org/pdf/2409.19924) | 
@@ -165,6 +166,7 @@
 | Han, Not Solo | [homepage](https://leehanchung.github.io/blogs/) | 
 | Interconnects (Nathan Lambert) | [homepage](https://www.interconnects.ai/) |
 | Towards AI Newsletter | [homepage](https://newsletter.towardsai.net/) | 
+| AHead of AI by Sebastian Raschka | [homepage](https://magazine.sebastianraschka.com) |  
 
 # Founder's Blogs
 | People | Homepage |
