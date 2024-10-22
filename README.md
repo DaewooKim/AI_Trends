@@ -110,6 +110,7 @@
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
+| 2024.10 | A Survey on Data Synthesis and Augmentation for Large Language Models | [paper](https://arxiv.org/pdf/2410.12896) | 
 
 ### Blog
 | Date | Title | Article |
