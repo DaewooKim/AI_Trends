@@ -62,6 +62,7 @@
 | 2024.10 | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models | [paper](https://arxiv.org/pdf/2410.05229) |
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 | 2024.10 | Inference Scaling for Long-Context Retrieval Augmented Generation | [paper](https://arxiv.org/pdf/2410.04343) | 
+| 2024.10 | GEAR: An Efficient KV Cahce Compression Recipe for Near-Lossless Generative Inference of LLM | [paper](https://arxiv.org/pdf/2403.05527) | 
 
 ### Blog
 | Date | Title | Article |
@@ -168,6 +169,7 @@
 | Interconnects (Nathan Lambert) | [homepage](https://www.interconnects.ai/) |
 | Towards AI Newsletter | [homepage](https://newsletter.towardsai.net/) | 
 | AHead of AI by Sebastian Raschka | [homepage](https://magazine.sebastianraschka.com) |  
+| Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) | 
 
 # Founder's Blogs
 | People | Homepage |
