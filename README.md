@@ -10,6 +10,7 @@
 * **Inference Infrastructure**
 * **HW architecture**
 * **LLM SW framework**
+* **AGI**
 * **Tech Blogs**
 
 # Deep Learning & Machine Learning
@@ -154,6 +155,11 @@
 | Title | Homepage |
 |---|---|
 | bitnet.cpp (official inference framework for 1-bit LLMs) | [homepage](https://github.com/microsoft/BitNet) |
+
+# AGI
+| Title | Homepage |
+|---|---|
+| 2024.10 | How Could Machines Reach Human-Level Intellige? | [slide](https://drive.google.com/file/d/1F0Q8Fq0h2pHq9j6QIbzqhBCfTXJ7Vmf4/view?usp=drivesdk) |
 
 # Tech Blogs
 | Company | Homepage |
