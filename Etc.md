@@ -20,6 +20,7 @@
 
 * [How AI Clusters for Enterprises Are Evolving Ahead of 2025]()
 * [$2 H100s: How the GPU Bubble Burst](https://www.latent.space/p/gpu-bubble)
+* [Multiple factors impact GPU cluster lifetime](https://x.com/surmenok/status/1849547183508553908)
 
 # Potcast
 
