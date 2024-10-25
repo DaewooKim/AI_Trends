@@ -11,6 +11,7 @@
 * **HW architecture**
 * **LLM SW framework**
 * **AGI**
+* **Multi-Modal**
 * **Tech Blogs**
 
 # Deep Learning & Machine Learning
@@ -144,7 +145,6 @@
 |---|---|---|
 | 2024.07 | The Evolution of AI Capabilities and the Power of 100,000 H100 Clusters | [article](https://www.naddod.com/blog/ai-evolution-100k-h100-clusters) |
 | 2024.09 | From H100, GH200 to GB200: How NVIDIA Builds AI Supercomputers with SuperPod | [article](https://www.naddod.com/blog/how-nvidia-builds-ai-supercomputers-with-superpod) |
-| 
 
 ### Lectures
 | Date | Title | Homepage |
@@ -152,14 +152,19 @@
 | 2024.01 | ECE 5545: Machine Learning Hardware and Systems | [homepage](https://abdelfattah-class.github.io/ece5545/) | 
 
 # LLM SW framework
-| Title | Homepage |
-|---|---|
-| bitnet.cpp (official inference framework for 1-bit LLMs) | [homepage](https://github.com/microsoft/BitNet) |
+| Date | Title | Homepage |
+|---|---|---|
+| 2024.10 | bitnet.cpp (official inference framework for 1-bit LLMs) | [homepage](https://github.com/microsoft/BitNet) |
 
 # AGI
-| Title | Homepage |
-|---|---|
+| Date | Title | Homepage |
+|---|---|---|
 | 2024.10 | How Could Machines Reach Human-Level Intellige? | [slide](https://drive.google.com/file/d/1F0Q8Fq0h2pHq9j6QIbzqhBCfTXJ7Vmf4/view?usp=drivesdk) |
+
+# Multi-Modal
+| Date | Title | Homepage |
+|---|---|---|
+| 2024.10 | Introducting Multimodal Llama3.2 | [homepage](https://www.deeplearning.ai/short-courses/introducing-multimodal-llama-3-2/?utm_campaign=metac2-launch&utm_content=314134584&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456) |
 
 # Tech Blogs
 | Company | Homepage |
