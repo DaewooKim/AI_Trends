@@ -125,8 +125,9 @@
 # Inference Infrastructure
 
 ### Paper
-| Date | Title | Paper |
-|---|---|---|
+| Date | Title | Paper | 👀 |
+|---|---|---|---|
+| 2024.10 | LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding | [paper](https://arxiv.org/pdf/2404.16710) | |
 
 ### Blog
 | Date | Title | Article |
