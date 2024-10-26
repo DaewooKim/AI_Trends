@@ -198,6 +198,7 @@
 | AHead of AI by Sebastian Raschka | [homepage](https://magazine.sebastianraschka.com) |  
 | Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) |
 | High Learning Rate | [homepage](https://highlearningrate.substack.com/)|
+| Generative AI Newsletter | [homepage](https://newsletter.genai.works/) |
 
 # Founder's Blogs
 | People | Homepage |
