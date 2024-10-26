@@ -12,6 +12,7 @@
 * **LLM SW framework**
 * **AGI**
 * **Multi-Modal**
+* **Model Compression**
 * **Tech Blogs**
 
 # Deep Learning & Machine Learning
@@ -65,6 +66,7 @@
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 | 2024.10 | Inference Scaling for Long-Context Retrieval Augmented Generation | [paper](https://arxiv.org/pdf/2410.04343) | 
 | 2024.10 | GEAR: An Efficient KV Cahce Compression Recipe for Near-Lossless Generative Inference of LLM | [paper](https://arxiv.org/pdf/2403.05527) | 
+| 2024.10 | System 2 Thinking in OpenAI’s o1-Preview Model: NearPerfect Performance on a Mathematics Exam | [paper](https://arxiv.org/pdf/2410.07114) |
 
 ### Blog
 | Date | Title | Article |
@@ -137,9 +139,10 @@
 # HW Architecture
 
 ### Paper
-| Date | Title | Paper |
-|---|---|---|
-| 2024.10 | Addition is All You Need For Energy-Efficient Language Models | [paper](https://arxiv.org/pdf/2410.00907) | 
+| Date | Title | Paper | 👀 | 
+|---|---|---|---|
+| 2024.10 | Addition is All You Need For Energy-Efficient Language Models | [paper](https://arxiv.org/pdf/2410.00907) |  | 
+| 2024.10 | Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective | [paper](https://arxiv.org/pdf/2410.04466) |  |
 
 ### Blog
 | Date | Title | Article |
@@ -166,6 +169,17 @@
 | Date | Title | Homepage |
 |---|---|---|
 | 2024.10 | Introducting Multimodal Llama3.2 | [homepage](https://www.deeplearning.ai/short-courses/introducing-multimodal-llama-3-2/?utm_campaign=metac2-launch&utm_content=314134584&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456) |
+
+# Model Compression
+
+### Paper
+| Date | Title | Paper |
+|---|---|---|
+
+## Blog
+| Date | Title | Homepage |
+|---|---|---|
+| 2024.09 | Fine-tuning LLMs to 1.58bit: extreme quantization made easy | [article](https://huggingface.co/blog/1_58_llm_extreme_quantization) | 
 
 # Tech Blogs
 | Company | Homepage |
