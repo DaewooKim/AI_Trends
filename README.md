@@ -76,6 +76,7 @@
 | 2024.10 | Noam Brown, Ilge Akkaya & Hunter Lightman of OpenAI’s o1 Research Team on Teaching LLMs to Reason Better by Thinking Longer | [article](https://www.sequoiacap.com/podcast/training-data-noam-brown/) | 
 | 2024.10 | aman.ai - OpenAI o1| [article](https://aman.ai/primers/ai/o1/) |
 | 2024.10 | Reasoning Series, Part 1: Understanding OpenAI o1 | [article](https://leehanchung.github.io/blogs/2024/10/08/reasoning-understanding-o1/) |
+| 2024.10 | Introducing quantized Llama models with increased speed and a reduced memory footprint | [article](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/) |
 
 ### Lectures
 | Date | Title | Homepage |
@@ -199,6 +200,11 @@
 | Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) |
 | High Learning Rate | [homepage](https://highlearningrate.substack.com/)|
 | Generative AI Newsletter | [homepage](https://newsletter.genai.works/) |
+
+# Big Tech Blogs
+| Company | Homepage |
+|---|---|
+| Meta AI | [homepage](https://ai.meta.com/blog/) |
 
 # Founder's Blogs
 | People | Homepage |
