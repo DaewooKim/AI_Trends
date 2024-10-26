@@ -107,6 +107,7 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
+| 2024.10 | LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding | [paper](https://arxiv.org/pdf/2404.16710) |
 
 # Training Infrastructure
 
@@ -180,7 +181,8 @@
 | Interconnects (Nathan Lambert) | [homepage](https://www.interconnects.ai/) |
 | Towards AI Newsletter | [homepage](https://newsletter.towardsai.net/) | 
 | AHead of AI by Sebastian Raschka | [homepage](https://magazine.sebastianraschka.com) |  
-| Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) | 
+| Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) |
+| High Learning Rate | [homepage](https://highlearningrate.substack.com/)|
 
 # Founder's Blogs
 | People | Homepage |
