@@ -67,6 +67,7 @@
 | 2024.10 | Inference Scaling for Long-Context Retrieval Augmented Generation | [paper](https://arxiv.org/pdf/2410.04343) | 
 | 2024.10 | GEAR: An Efficient KV Cahce Compression Recipe for Near-Lossless Generative Inference of LLM | [paper](https://arxiv.org/pdf/2403.05527) | 
 | 2024.10 | System 2 Thinking in OpenAI’s o1-Preview Model: NearPerfect Performance on a Mathematics Exam | [paper](https://arxiv.org/pdf/2410.07114) |
+| 2024.10 | A Comparative Study on Reasoning Patterns of OpenAI's o1 Model | [paper](https://arxiv.org/pdf/2410.13639) |
 
 ### Blog
 | Date | Title | Article |
