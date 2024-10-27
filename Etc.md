@@ -27,6 +27,9 @@
 * [구글, AI 에이전트 '프로젝트 자비스' 이르면 연내 공개…AI 에이전트 경쟁 점화](https://www.etnews.com/20241027000032)
 * [MS, New autonomous agents scale your team like never before](https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/) 
 
+# Opensource 동향
+* [The enterprise verdict on AI models: Why open source will win](https://venturebeat.com/ai/the-enterprise-verdict-on-ai-models-why-open-source-will-win/)
+
 # Dev
 
 * [NotebookLM](https://notebooklm.google/)
