@@ -3,6 +3,7 @@
 * **Transformer**
 * **Non-Transformer**
 * **LLM**
+* **Foundation Model**
 * **AI agent**
 * **Training Optimization**
 * **Inference Optimization**
@@ -55,7 +56,7 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
-| 2024.08 | The Llama 3 Herd of Models | [paper](https://arxiv.org/pdf/2407.21783) |
+
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) |
 | 2024.09 | Large Language Monkeys: Scaling Inference Compute with Repeated Sampling | [paper](https://arxiv.org/pdf/2407.21787) |
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
@@ -84,6 +85,14 @@
 |---|---|---|
 | 2024 Fall | TinyML and Efficient Deep Learning Computing (MIT) | [homepage](https://hanlab.mit.edu/courses/2024-fall-65940) |
 | 2024 Fall | Large Language Models: Methods and Applications (CMU) | [homepage](https://cmu-llms.org/schedule) |
+
+# Foundation Model
+### Paper
+| Date | Title | Paper |
+|---|---|---|
+| 2024.08 | The Llama 3 Herd of Models (Meta) | [paper](https://arxiv.org/pdf/2407.21783) |
+| 2024.10 | Granite 3.0 (IBM) | [paper](https://github.com/ibm-granite/granite-3.0-language-models/tree/main) |
+
 
 # AI Agent
 
@@ -178,6 +187,7 @@
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
+| 2024.08 | LLM Pruning and Distillation in Practice: The Minitron Approach | [paper](https://arxiv.org/pdf/2408.11796) |
 
 ## Blog
 | Date | Title | Homepage |
