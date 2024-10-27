@@ -22,6 +22,15 @@
 * [$2 H100s: How the GPU Bubble Burst](https://www.latent.space/p/gpu-bubble)
 * [Multiple factors impact GPU cluster lifetime](https://x.com/surmenok/status/1849547183508553908)
 
+# AI Agent 동향
+
+* [구글, AI 에이전트 '프로젝트 자비스' 이르면 연내 공개…AI 에이전트 경쟁 점화](https://www.etnews.com/20241027000032)
+* [MS, New autonomous agents scale your team like never before](https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/) 
+
+# Dev
+
+* [NotebookLM](https://notebooklm.google/)
+
 # Potcast
 
 * [a16z](https://www.youtube.com/@a16z)
