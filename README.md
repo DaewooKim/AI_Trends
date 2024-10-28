@@ -56,7 +56,6 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
-
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) |
 | 2024.09 | Large Language Monkeys: Scaling Inference Compute with Repeated Sampling | [paper](https://arxiv.org/pdf/2407.21787) |
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
