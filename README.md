@@ -3,6 +3,7 @@
 * **Transformer**
 * **Non-Transformer**
 * **LLM**
+* **SLM**
 * **Foundation Model**
 * **AI agent**
 * **Training Optimization**
@@ -84,6 +85,13 @@
 |---|---|---|
 | 2024 Fall | TinyML and Efficient Deep Learning Computing (MIT) | [homepage](https://hanlab.mit.edu/courses/2024-fall-65940) |
 | 2024 Fall | Large Language Models: Methods and Applications (CMU) | [homepage](https://cmu-llms.org/schedule) |
+
+# SLM
+### Paper
+| Date | Title | Paper |
+|---|---|---|
+| 2024.10 | Small Language Models: Survey, Measurements, and Insights | [paper](https://arxiv.org/pdf/2409.15790) |
+
 
 # Foundation Model
 ### Paper
