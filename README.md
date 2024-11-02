@@ -180,8 +180,10 @@
 | 2024.10 | bitnet.cpp (official inference framework for 1-bit LLMs) | [homepage](https://github.com/microsoft/BitNet) |
 
 # AGI
+### Blog
 | Date | Title | Homepage |
 |---|---|---|
+| 2024.06 | Situational Awareness - Leopold Aschenbrenner | [homepage](https://situational-awareness.ai/) |
 | 2024.10 | How Could Machines Reach Human-Level Intellige? | [slide](https://drive.google.com/file/d/1F0Q8Fq0h2pHq9j6QIbzqhBCfTXJ7Vmf4/view?usp=drivesdk) |
 
 # Multi-Modal
