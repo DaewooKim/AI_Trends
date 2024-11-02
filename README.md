@@ -198,7 +198,7 @@
 |---|---|---|
 | 2024.08 | LLM Pruning and Distillation in Practice: The Minitron Approach | [paper](https://arxiv.org/pdf/2408.11796) |
 
-## Blog
+### Blog
 | Date | Title | Homepage |
 |---|---|---|
 | 2024.09 | Fine-tuning LLMs to 1.58bit: extreme quantization made easy | [article](https://huggingface.co/blog/1_58_llm_extreme_quantization) | 
