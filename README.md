@@ -203,13 +203,10 @@
 |---|---|---|
 | 2024.09 | Fine-tuning LLMs to 1.58bit: extreme quantization made easy | [article](https://huggingface.co/blog/1_58_llm_extreme_quantization) | 
 
-# Tech Blogs
-| Company | Homepage |
+# Personal Tech Blogs
+| Title | Homepage |
 |---|---|
-| Sionic AI | [homepage](https://blog.sionic.ai/) |
-| Liquid AI | [homepage](https://www.liquid.ai/) |
 | Eugene Yan (Senior Applied Scientist at Amazon) | [homepage](https://eugeneyan.com/) |
-| Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
 | Latent Space | [homepage](https://www.latent.space/) | 
 | Lycee AI | [homepage](https://www.lycee.ai/blog) |
 | Zeta Alpha - Trends in AI blog | [homepage](https://www.zeta-alpha.com/blog-1) | 
@@ -225,6 +222,9 @@
 | Company | Homepage |
 |---|---|
 | Meta AI | [homepage](https://ai.meta.com/blog/) |
+| Pinterest Engineering | [homepage](https://medium.com/@Pinterest_Engineering) |
+| Sionic AI | [homepage](https://blog.sionic.ai/) |
+| Liquid AI | [homepage](https://www.liquid.ai/) |
 
 # Founder's Blogs
 | People | Homepage |
