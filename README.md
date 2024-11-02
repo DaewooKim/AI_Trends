@@ -217,6 +217,8 @@
 | Exploring Language Models | [homepage](https://newsletter.maartengrootendorst.com) |
 | High Learning Rate | [homepage](https://highlearningrate.substack.com/)|
 | Generative AI Newsletter | [homepage](https://newsletter.genai.works/) |
+| Maxime Labonne | [homepage](https://maximelabonne.substack.com/p/quantize-llama-models-with-ggml-and-llama-cpp-3612dfbcc172) | 
+| Decoding ML Newsletter | [homepage](https://decodingml.substack.com/) | 
 
 # Big Tech Blogs
 | Company | Homepage |
