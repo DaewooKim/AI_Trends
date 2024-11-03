@@ -2,7 +2,7 @@
 * **Deep Learning & Mchine Learning**
 * **[Transformer](#transformer)**
 * **Non-Transformer**
-* **[LLM](llm)**
+* **[LLM](#llm)**
 * **SLM**
 * **Foundation Model**
 * **AI agent**
