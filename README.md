@@ -220,6 +220,8 @@
 | Generative AI Newsletter | [homepage](https://newsletter.genai.works/) |
 | Maxime Labonne | [homepage](https://maximelabonne.substack.com/p/quantize-llama-models-with-ggml-and-llama-cpp-3612dfbcc172) | 
 | Decoding ML Newsletter | [homepage](https://decodingml.substack.com/) | 
+| Distilled AI | [homepage(https://aman.ai/primers/ai/) | 
+| The AiEdge Newletter | [homepage](https://newsletter.theaiedge.io/) | 
 
 # Big Tech Blogs
 | Company | Homepage |
