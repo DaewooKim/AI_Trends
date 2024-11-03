@@ -8,7 +8,7 @@
 * **AI agent**
 * **Training Optimization**
 * **Inference Optimization**
-* **Training Infrastructure**
+* **[Training Infrastructure](#training-infrastructure)**
 * **Inference Infrastructure**
 * **HW architecture**
 * **LLM SW framework**
@@ -135,6 +135,7 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.10 | A Survey on Data Synthesis and Augmentation for Large Language Models | [paper](https://arxiv.org/pdf/2410.12896) | 
+| 2024.11 | Data Movement Limits To Forntier Model Training | [paper](https://epochai.org/files/limits_to_distributed_training.pdf) |
 
 ### Blog
 | Date | Title | Article |
