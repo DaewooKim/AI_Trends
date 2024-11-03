@@ -86,6 +86,7 @@
 |---|---|---|
 | 2024 Fall | TinyML and Efficient Deep Learning Computing (MIT) | [homepage](https://hanlab.mit.edu/courses/2024-fall-65940) |
 | 2024 Fall | Large Language Models: Methods and Applications (CMU) | [homepage](https://cmu-llms.org/schedule) |
+| 2024.10 | LLM Engineer's Handbook: Master the art of engineering Large Lanuage Models from concept to production | [homepage](https://github.com/PacktPublishing/LLM-Engineers-Handbook) | 
 
 # SLM
 ### Paper
