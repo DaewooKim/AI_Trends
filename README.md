@@ -56,6 +56,7 @@
 ### Paper
 | Date | Title | Paper |
 |---|---|---|
+| 2022.10 | Memorization without Overfitting: Analyzing the Training Dynamics of Large Language Models | [paper](https://arxiv.org/pdf/2205.10770) | 
 | 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) |
 | 2024.09 | Large Language Monkeys: Scaling Inference Compute with Repeated Sampling | [paper](https://arxiv.org/pdf/2407.21787) |
