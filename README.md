@@ -132,6 +132,11 @@
 | 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
 | 2024.10 | LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding | [paper](https://arxiv.org/pdf/2404.16710) |
 
+### Lectures
+| Date | Title | homepage |
+|---|---|---|
+| 2024.10 | Efficient LLM Deployment and Serving Meetup | [youtube](https://youtu.be/_mzKptPj0hE?list=TLGGGMMXxmJZcj0wNDExMjAyNA) |
+
 # Training Infrastructure
 
 ### Paper
@@ -157,7 +162,6 @@
 | 2023.12 | Last Mile Data Processing with Ray | [article](https://medium.com/pinterest-engineering/last-mile-data-processing-with-ray-629affbf34ff) |
 | 2024.07 | Ray Infrastructure at Pinterest | [article](https://medium.com/pinterest-engineering/ray-infrastructure-at-pinterest-0248efe4fd52) |
 | 2024.07 | Ray Batch Inference at Pinterest (Part 3) | [article](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385) |
-
 
 # HW Architecture
 
