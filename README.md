@@ -16,6 +16,7 @@
 * **Multi-Modal**
 * **Model Compression**
 * **Tech Blogs**
+* **[Community](#community)**
 
 # Deep Learning & Machine Learning
 
@@ -242,3 +243,8 @@
 | People | Homepage |
 |---|---|
 | Frontier (Doyeob Kim) | [homepage](https://frontierbydoyeob.substack.com/) |
+
+# Community
+| Community | Homepage |
+|---|---|
+| AI 언어보델 로컬 채널 | [homepage](https://arca.live/b/alpaca) |
