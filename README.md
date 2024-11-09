@@ -45,6 +45,7 @@
 | 2023.12 | Fact Finding: How to Think About Interpreting Memorisation (Post 4) | [homepage](https://www.lesswrong.com/posts/JRcNNGJQ3xNfsxPj4/fact-finding-how-to-think-about-interpreting-memorisation) |
 | 2023.12 | Fact Finding: Do Early Layers Specialise in Local Processing? (Post 5) | [homepage](https://www.lesswrong.com/posts/xE3Y9hhriMmL4cpsR/fact-finding-do-early-layers-specialise-in-local-processing) | 
 | 2023.10 | Generative AI exists because of the transformer | [homepage](https://ig.ft.com/generative-ai) | 
+| 2024.08 | Transformer Explainer | [homepage](https://poloclub.github.io/transformer-explainer/) | 
 
 # Non-Transformer
 ### Paper
