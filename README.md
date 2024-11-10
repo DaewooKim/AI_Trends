@@ -1,24 +1,26 @@
 # Contents
-* **Deep Learning & Mchine Learning**
+* **[DL Basics](#dl-basics)**
 * **[Transformer](#transformer)**
-* **Non-Transformer**
+* **[Non-Transformer](#non-transformer)**
 * **[LLM](#llm)**
-* **SLM**
-* **Foundation Model**
-* **AI agent**
-* **Training Optimization**
-* **Inference Optimization**
+* **[SLM](#slm)**
+* **[Foundation Model](#foundation-model)**
+* **[AI agent](#ai-agent)**
+* **[Training Optimization](#training-optimization)**
+* **[Inference Optimization](#inference-optimization)**
 * **[Training Infrastructure](#training-infrastructure)**
-* **Inference Infrastructure**
-* **HW architecture**
-* **LLM SW framework**
-* **AGI**
-* **Multi-Modal**
-* **Model Compression**
-* **Tech Blogs**
+* **[Inference Infrastructure](#inference-infrastructure)**
+* **[HW architecture](#hw-architecture)**
+* **[LLM SW framework](#llm-sw-framework)**
+* **[AGI](#agi)**
+* **[Multi-Modal](#multi-modal)**
+* **[Model Compression](#model-compression)**
+* **[Personal Tech Blogs](#personal-tech-blogs)**
+* **[Big Tech Blogs](#big-tech-blogs)**
+* **[Founder's Blogs](#founders-blogs)**
 * **[Community](#community)**
 
-# Deep Learning & Machine Learning
+# DL Basics
 
 ### Lecture
 
@@ -34,6 +36,8 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
+| 2024.10 | Differential Transformer | [paper](https://arxiv.org/pdf/2410.05258) |
+| 2023.11 | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters | [paper](https://arxiv.org/pdf/2410.23168) | 
 
 ### Blog
 | Date | Title | Article |
@@ -65,7 +69,6 @@
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
 | 2024.10 | LLMs Know More Than They Show: On The Intrinsic Representation of LLM Hallucinations| [paper](https://arxiv.org/pdf/2410.02707) |
 | 2024.10 | On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability |[paper](https://arxiv.org/pdf/2409.19924) | 
-| 2024.10 | Differential Transformer | [paper](https://arxiv.org/pdf/2410.05258) |
 | 2024.10 | GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models | [paper](https://arxiv.org/pdf/2410.05229) |
 | 2024.10 | Thinking LLMs: General Instruction Following With Thought Generation | [paper](https://arxiv.org/pdf/2410.10630) |
 | 2024.10 | Inference Scaling for Long-Context Retrieval Augmented Generation | [paper](https://arxiv.org/pdf/2410.04343) | 
