@@ -37,7 +37,8 @@
 |---|---|---|
 | 2024.10 | What Matters in Transformers? Not All Attention is Needed | [paper](https://arxiv.org/pdf/2406.15786) |
 | 2024.10 | Differential Transformer | [paper](https://arxiv.org/pdf/2410.05258) |
-| 2023.11 | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters | [paper](https://arxiv.org/pdf/2410.23168) | 
+| 2024.10 | Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces | [paper](https://arxiv.org/pdf/2410.09918) | 
+| 2024.11 | TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters | [paper](https://arxiv.org/pdf/2410.23168) | 
 
 ### Blog
 | Date | Title | Article |
@@ -76,7 +77,10 @@
 | 2024.10 | System 2 Thinking in OpenAI’s o1-Preview Model: NearPerfect Performance on a Mathematics Exam | [paper](https://arxiv.org/pdf/2410.07114) |
 | 2024.10 | A Comparative Study on Reasoning Patterns of OpenAI's o1 Model | [paper](https://arxiv.org/pdf/2410.13639) |
 | 2024.10 | Observational Scaling Laws and the Predictability of Language Model Performance | [paper](https://arxiv.org/pdf/2405.10938) | 
+| 2024.10 | A Hitchhiker's Guide to Scaling Law Estimation | [paper](https://arxiv.org/pdf/2410.11840) |
+| 2024.10 | LoLCATs: On Low-Rank Linearizing of Large Language Models | [paper](https://arxiv.org/pdf/2410.10254) | 
 | 2024.11 | Baysian Scaling Laws For In-Context Learning | [paper](https://arxiv.org/pdf/2410.16531) |
+| 2024.11 | Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation | [paper](https://arxiv.org/pdf/2411.00412) | 
 
 ### Blog
 | Date | Title | Article |
@@ -129,6 +133,7 @@
 |---|---|---|
 | 2023.12 | FP8-LM: Training FP8 Large Language Models | [paper](https://arxiv.org/pdf/2310.18313) |
 | 2024.10 | Scaling FP8 training to trillion-token LLMs | [paper](https://arxiv.org/pdf/2409.12517v1) |
+| 2024.10 | LoRA vs Full Fine-tuning: An Illusion of Equivalence | [paper](https://arxiv.org/pdf/2410.21228) | 
 
 # Inference Optimization
 
