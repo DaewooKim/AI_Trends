@@ -75,6 +75,7 @@
 | 2024.10 | GEAR: An Efficient KV Cahce Compression Recipe for Near-Lossless Generative Inference of LLM | [paper](https://arxiv.org/pdf/2403.05527) | 
 | 2024.10 | System 2 Thinking in OpenAI’s o1-Preview Model: NearPerfect Performance on a Mathematics Exam | [paper](https://arxiv.org/pdf/2410.07114) |
 | 2024.10 | A Comparative Study on Reasoning Patterns of OpenAI's o1 Model | [paper](https://arxiv.org/pdf/2410.13639) |
+| 2024.10 | Observational Scaling Laws and the Predictability of Language Model Performance | [paper](https://arxiv.org/pdf/2405.10938) | 
 | 2024.11 | Baysian Scaling Laws For In-Context Learning | [paper](https://arxiv.org/pdf/2410.16531) |
 
 ### Blog
