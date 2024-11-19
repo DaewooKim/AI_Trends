@@ -35,6 +35,7 @@
 # Dev
 
 * [NotebookLM](https://notebooklm.google/)
+* [Colab](https://colab.research.google.com/)
 
 # Life
 * [워런 버핏, 성공한 사람과 다른 모든 사람을 구분하는 것은 세 단어: Invest in yourself(https://blog.naver.com/jeunkim/223642781359)
