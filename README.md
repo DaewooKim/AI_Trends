@@ -67,7 +67,7 @@
 |---|---|---|
 | 2022.10 | Memorization without Overfitting: Analyzing the Training Dynamics of Large Language Models | [paper](https://arxiv.org/pdf/2205.10770) | 
 | 2024.02 | The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits | [paper](https://arxiv.org/pdf/2402.17764) |
-| 2024.07 | Distilling System 2 into System 1 | [paper](https://arxiv.org/pdf/2407.06023v1 | 
+| 2024.07 | Distilling System 2 into System 1 | [paper](https://arxiv.org/pdf/2407.06023v1) | 
 | 2024.09 | Chain of Thought Empowers Transformers to Solve Inherently Serial Problems | [paper](https://arxiv.org/pdf/2402.12875) |
 | 2024.09 | Large Language Monkeys: Scaling Inference Compute with Repeated Sampling | [paper](https://arxiv.org/pdf/2407.21787) |
 | 2024.10 | Training Language Models to Self-Correct via Reinforcement Learning | [paper](https://arxiv.org/pdf/2410.12917) |
@@ -84,6 +84,7 @@
 | 2024.10 | LoLCATs: On Low-Rank Linearizing of Large Language Models | [paper](https://arxiv.org/pdf/2410.10254) | 
 | 2024.11 | Baysian Scaling Laws For In-Context Learning | [paper](https://arxiv.org/pdf/2410.16531) |
 | 2024.11 | Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation | [paper](https://arxiv.org/pdf/2411.00412) | 
+| 2024.11 | BitNet a4.8: 4-bit Activations for 1-bit LLMs | [paper](https://arxiv.org/pdf/2411.04965) | 
 
 ### Blog
 | Date | Title | Article |
