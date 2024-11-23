@@ -119,11 +119,16 @@
 
 
 # AI Agent
+### Paper 
+| Date | Title | Paper |
+|---|---|---|
+| 2024.08 | AUTOGEN STUDIO: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems | [paper](https://arxiv.org/pdf/2408.15247v1) |
 
 ### Blog
 | Date | Title | Article |
 |---|---|---|
-| 2024.09 | Choosing Between LLM Agent Frameworks | [homepage](https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259) |
+| 2024.09 | Choosing Between LLM Agent Frameworks | [article](https://towardsdatascience.com/choosing-between-llm-agent-frameworks-69019493b259) |
+| 2024.11 | AI Agent Frameworks: CrewAI vs. AutoGen vs. OpenAI Swarm | [article](https://www.artificialintelligenceupdate.com/ai-agent-frameworks-crewai-vs-autogen-vs-openai-swarm/riju/) |
 
 ### Lectures
 | Date | Title | Homepage |
