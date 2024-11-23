@@ -15,10 +15,12 @@
 * **[AGI](#agi)**
 * **[Multi-Modal](#multi-modal)**
 * **[Model Compression](#model-compression)**
+* **[DeepLearningAI Courses](#deeplearningai)**
 * **[Personal Tech Blogs](#personal-tech-blogs)**
 * **[Big Tech Blogs](#big-tech-blogs)**
 * **[Founder's Blogs](#founders-blogs)**
 * **[Community](#community)**
+* **[etc](#etc)**
 
 # DL Basics
 
@@ -223,6 +225,14 @@
 |---|---|---|
 | 2024.09 | Fine-tuning LLMs to 1.58bit: extreme quantization made easy | [article](https://huggingface.co/blog/1_58_llm_extreme_quantization) | 
 
+# DeepLearningAI
+| Title | Instrucutors | Courses |
+|---|---|---|
+| Pretraining LLMs | Sung Kim, Lucy Park - upstage| [Course](https://www.deeplearning.ai/short-courses/pretraining-llms/) |
+| AI Agentic Design Patterns with AutoGen | Chi Wang (MS) & Qingyun Wu (Penn State Univ.) | [Course](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) | 
+| Multi AI Agent Systems with CrewAI | Joao Moura - crew ai | [Course](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/) | 
+
+
 # Personal Tech Blogs
 | Title | Homepage |
 |---|---|
@@ -259,3 +269,11 @@
 | Community | Homepage |
 |---|---|
 | AI 언어보델 로컬 채널 | [homepage](https://arca.live/b/alpaca) |
+
+# etc
+| Title | Homepage |
+|---|---|
+| Accelerated PyTorch training on Mac | [homepage](https://developer.apple.com/metal/pytorch/) | 
+
+
+
