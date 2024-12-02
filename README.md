@@ -1,4 +1,5 @@
 # Contents
+* **[ebook](#ebook)**
 * **[DL Basics](#dl-basics)**
 * **[Transformer](#transformer)**
 * **[Non-Transformer](#non-transformer)**
@@ -21,6 +22,12 @@
 * **[Founder's Blogs](#founders-blogs)**
 * **[Community](#community)**
 * **[etc](#etc)**
+
+# Ebook
+| Date | Title | Homepage |
+|---|---|---|
+| 2024.10 | AI Agnets in Action| [read in liveBook](https://livebook.manning.com/book/ai-agents-in-action) |
+| 2024.11 | Build a Large Language Model (From Scratch) | [read in liveBook](https://livebook.manning.com/book/build-a-large-language-model-from-scratch) |
 
 # DL Basics
 
