@@ -159,6 +159,11 @@
 | 2024.08 | Keep the Cost Down: A Review on Methods to Optimize LLM's KV Cache Consumpution | [paper](https://arxiv.org/pdf/2407.18003) |
 | 2024.10 | LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding | [paper](https://arxiv.org/pdf/2404.16710) |
 
+### Blog
+| Date | Title | Article |
+|---|---|---|
+| 2024.12 | Is BFloat16’s Precision Not Good Enough for RoPE? |[article](https://medium.com/@bnjmn_marie/is-bfloat16s-precision-not-good-enough-for-rope-8b2e4bbd0f65) | 
+
 ### Lectures
 | Date | Title | homepage |
 |---|---|---|
