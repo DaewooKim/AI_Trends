@@ -194,6 +194,7 @@
 | 2023.12 | Last Mile Data Processing with Ray | [article](https://medium.com/pinterest-engineering/last-mile-data-processing-with-ray-629affbf34ff) |
 | 2024.07 | Ray Infrastructure at Pinterest | [article](https://medium.com/pinterest-engineering/ray-infrastructure-at-pinterest-0248efe4fd52) |
 | 2024.07 | Ray Batch Inference at Pinterest (Part 3) | [article](https://medium.com/pinterest-engineering/ray-batch-inference-at-pinterest-part-3-4faeb652e385) |
+| 2024.08 | Building LLM Applications: Serving LLMs (Part 9) | [article](https://medium.com/@vipra_singh/building-llm-applications-serving-llms-part-9-68baa19cef79#2f7e) |
 
 # HW Architecture
 
