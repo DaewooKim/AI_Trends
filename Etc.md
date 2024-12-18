@@ -29,6 +29,9 @@
 * [구글, AI 에이전트 '프로젝트 자비스' 이르면 연내 공개…AI 에이전트 경쟁 점화](https://www.etnews.com/20241027000032)
 * [MS, New autonomous agents scale your team like never before](https://blogs.microsoft.com/blog/2024/10/21/new-autonomous-agents-scale-your-team-like-never-before/) 
 
+# Search 동향
+* [ChatGPT Search is not OpenAI’s ‘Google killer’ yet](https://techcrunch.com/2024/11/04/chatgpt-search-is-not-openais-google-killer-yet/)
+
 # Opensource 동향
 * [The enterprise verdict on AI models: Why open source will win](https://venturebeat.com/ai/the-enterprise-verdict-on-ai-models-why-open-source-will-win/)
 
@@ -38,7 +41,7 @@
 * [Colab](https://colab.research.google.com/)
 
 # Life
-* [워런 버핏, 성공한 사람과 다른 모든 사람을 구분하는 것은 세 단어: Invest in yourself(https://blog.naver.com/jeunkim/223642781359)
+* [워런 버핏, 성공한 사람과 다른 모든 사람을 구분하는 것은 세 단어: Invest in yourself](https://blog.naver.com/jeunkim/223642781359)
 
 # Potcast
 
