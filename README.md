@@ -130,6 +130,7 @@
 | Date | Title | Paper |
 |---|---|---|
 | 2024.08 | AUTOGEN STUDIO: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems | [paper](https://arxiv.org/pdf/2408.15247v1) |
+| 2024.12 | Agents Are Not Enough | [paper](https://www.arxiv.org/pdf/2412.16241) |
 
 ### Blog
 | Date | Title | Article |
