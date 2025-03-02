@@ -12,6 +12,7 @@
 * **[Training Infrastructure](#training-infrastructure)**
 * **[Inference Infrastructure](#inference-infrastructure)**
 * **[HW architecture](#hw-architecture)**
+* **[HW/SW co-design](#hwsw-co-design)**
 * **[LLM SW framework](#llm-sw-framework)**
 * **[AGI](#agi)**
 * **[Multi-Modal](#multi-modal)**
@@ -215,6 +216,12 @@
 | Date | Title | Homepage |
 |---|---|---|
 | 2024.01 | ECE 5545: Machine Learning Hardware and Systems | [homepage](https://abdelfattah-class.github.io/ece5545/) | 
+
+# HWSW co-design
+### Paper
+| Date | Title | Paper | 👀 | 
+|---|---|---|---|
+| 2024.08 | Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning | [paper](https://arxiv.org/pdf/2408.14158) | 
 
 # LLM SW framework
 | Date | Title | Homepage |
