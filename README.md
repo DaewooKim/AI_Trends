@@ -278,6 +278,7 @@
 | Decoding ML Newsletter | [homepage](https://decodingml.substack.com/) | 
 | Distilled AI | [homepage](https://aman.ai/primers/ai/) | 
 | The AiEdge Newletter | [homepage](https://newsletter.theaiedge.io/) | 
+| Deep Random Thoughts | [homepage](https://aisc.substack.com/) | 
 
 # Big Tech Blogs
 | Company | Homepage |
