@@ -93,6 +93,7 @@
 | 2024.11 | Baysian Scaling Laws For In-Context Learning | [paper](https://arxiv.org/pdf/2410.16531) |
 | 2024.11 | Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation | [paper](https://arxiv.org/pdf/2411.00412) | 
 | 2024.11 | BitNet a4.8: 4-bit Activations for 1-bit LLMs | [paper](https://arxiv.org/pdf/2411.04965) | 
+| 2025.02 | LLM Post-Training: A Deep Dive into Reasoning Large Language Models | [oaper](https://arxiv.org/pdf/2502.21321) | 
 
 ### Blog
 | Date | Title | Article |
