@@ -294,6 +294,7 @@
 | People | Homepage |
 |---|---|
 | Frontier (Doyeob Kim) | [homepage](https://frontierbydoyeob.substack.com/) |
+| The Startup Bible | [homepage](https://www.thestartupbible.com/) |
 
 # Community
 | Community | Homepage |
