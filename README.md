@@ -281,6 +281,7 @@
 | The AiEdge Newletter | [homepage](https://newsletter.theaiedge.io/) | 
 | Deep Random Thoughts | [homepage](https://aisc.substack.com/) | 
 | Simon Willison's Weblog | [homepage](https://simonwillison.net) | 
+| AI and Systems Co-design | [hompape](https://aisystemcodesign.github.io/) |
 
 # Big Tech Blogs
 | Company | Homepage |
