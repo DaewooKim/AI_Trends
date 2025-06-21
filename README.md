@@ -283,6 +283,7 @@
 | Simon Willison's Weblog | [homepage](https://simonwillison.net) | 
 | AI and Systems Co-design | [hompape](https://aisystemcodesign.github.io/) |
 | natolambert overflow | [homepage](natolambert.substack.com) |
+| Lenny's newsletter | [homepae](https://www.lennysnewsletter.com/) | 
 
 # Big Tech Blogs
 | Company | Homepage |
