@@ -39,6 +39,7 @@
 | 2024.08 | Speech and Language Processing (3rd ed. draft) | [paper](https://web.stanford.edu/~jurafsky/slp3/) | 
 | 2024.09 | TinyML and Efficient Deep Learning Computing (6.5940, Fall, 2024) | [paper](https://hanlab.mit.edu/courses/2024-fall-65940) |
 | 2024.09 | ECE 5545: Machine Learning Hardware and Systems | [paper](https://abdelfattah-class.github.io/ece554) | 
+| 2025.08 | LLM Course | [link](https://github.com/mlabonne/llm-course) | 
 
 # Transformer 
 
