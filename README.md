@@ -286,6 +286,8 @@
 | AI and Systems Co-design | [hompape](https://aisystemcodesign.github.io/) |
 | natolambert overflow | [homepage](natolambert.substack.com) |
 | Lenny's newsletter | [homepae](https://www.lennysnewsletter.com/) | 
+| Blog: Insights on GPU infrastructure, AI, and data centers. | [homepage](https://introl.com/blog) |
+| 요즘 IT | [home](https://yozm.wishket.com/magazine/) |
 
 # Big Tech Blogs
 | Company | Homepage |
